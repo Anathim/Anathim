@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anathim
-- 👀 I’m interested in developing applications
+- 👀 I’m interested in developing applications and software
 - 🌱 I’m currently learning Application Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
